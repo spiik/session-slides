@@ -35,3 +35,15 @@ Juuressa `index.html` listaa kalvot, jos joku menee osoitteen tyveen.
 lisättynä), se tallennetaan **täsmälleen samalla nimellä** `pdf/trustworthy-ai.pdf`.
 Nimen vaihtaminen rikkoo painetun/kalvolla olevan QR-koodin. Pages päivittyy noin
 minuutissa pushista.
+
+### 2026-09-01 (jatko) — v2 QR-koodilla livenä
+
+Kalle latasi uuden version vanhalla pitkällä nimellä; sisältö siirrettiin lukitun nimen
+`pdf/trustworthy-ai.pdf` päälle. **QR-koodi dekoodattiin** (OpenCV, kaikki 23 kalvoa
+skannattu): kalvolla 2, osoite `https://spiik.github.io/session-slides/pdf/trustworthy-ai.pdf`
+— merkilleen oikein. Tämä on ainoa tapa todentaa QR ennen kuin joku salissa skannaa sen.
+
+Kalvon 2 tekstikerroksessa lukee yhä *"ADD QR CODE HERE"*, mutta QR-kuva peittää sen
+kokonaan — todennettu renderöimällä kalvo kuvaksi. Ei toimenpiteitä.
+
+✅ Pages tarjoilee uuden version (1 830 403 tavua). Valmis esityksiin 2.9. ja 4.9.
