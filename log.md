@@ -20,6 +20,9 @@ pysyvästi, myös jos se myöhemmin poistetaan.
 `pdf/trustworthy-ai.pdf` — *From Smart Answers to Trustworthy AI: Designing Governed
 Copilot Studio Agents*, 23 kalvoa. Esitetään **2.9. ja 4.9.2026**.
 
+Kalvojen lähdemateriaali, demovideo ja agentti ovat projektissa
+[`KnowledgeGoverned`](../KnowledgeGoverned/log.md) — täällä on vain julkaistu PDF.
+
 **Sisältötarkistus ennen julkista pushia:** ei asiakasnimiä, ei tenant-tunnuksia, ei
 MVP-/NDA-aineistoa. Metadatassa vain Kallen oma nimi ja PowerPoint-tuottaja. Kalvoilla
 oleva evaluaatiodata (24/43 → 31/43 ilman muutoksia) on anonyymiä. → julkaisukelpoinen.
