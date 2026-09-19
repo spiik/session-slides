@@ -76,3 +76,7 @@ Kalle toi uuden version samalla pitkällä nimellä; sisältö siirretty lukitun
 `https://spiik.github.io/session-slides/pdf/trustworthy-ai-nordic-summit.pdf` — oikein.
 Tekstikerroksessa yhä *"ADD QR CODE HERE"*, QR-kuva peittää sen kuten edelliselläkin kerralla.
 Metadata edelleen pohjan tekijän (Guro Faller / Nordic Summit 2025).
+
+### 2026-09-19 (jatko) — v2 QR-koodilla livenä
+
+Uusi versio siirretty lukitun nimen päälle. QR dekoodattu: kalvolla 4, osoite oikein.
