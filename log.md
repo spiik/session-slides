@@ -67,3 +67,12 @@ tekijän jäänne, ei asiakastietoa. Kerrottu Kallelle; korjataan jos hän halua
 
 **QR-koodin osoite:** `https://spiik.github.io/session-slides/pdf/trustworthy-ai-nordic-summit.pdf`
 Alkuperäinen pitkänniminen tiedosto jätetty työkansioon commitoimatta.
+
+### 2026-09-19 (jatko) — v2 QR-koodilla livenä
+
+Kalle toi uuden version samalla pitkällä nimellä; sisältö siirretty lukitun nimen
+`pdf/trustworthy-ai-nordic-summit.pdf` päälle. Muutokset: puhujakalvo uusittu, QR lisätty.
+**QR dekoodattu** (OpenCV, kaikki 27 kalvoa 300 dpi): kalvolla 4, osoite
+`https://spiik.github.io/session-slides/pdf/trustworthy-ai-nordic-summit.pdf` — oikein.
+Tekstikerroksessa yhä *"ADD QR CODE HERE"*, QR-kuva peittää sen kuten edelliselläkin kerralla.
+Metadata edelleen pohjan tekijän (Guro Faller / Nordic Summit 2025).
