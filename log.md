@@ -94,3 +94,11 @@ nimetty puhujalle (Laiho, Seppälä, Edgson). Metadata: `Title: Experts Live Swe
 tekijä tyhjä. Kalvon 2 "Slides"-kohta odottaa QR-koodia.
 
 **QR-koodin osoite:** `https://spiik.github.io/session-slides/pdf/i-will-hack-my-agent.pdf`
+
+### 2026-10-02 (jatko) — QR-versio livenä
+
+Kalle toi QR-version samalla v18-nimellä; sisältö siirretty lukitun nimen
+`pdf/i-will-hack-my-agent.pdf` päälle (1 480 968 tavua). Tekstimuutos edelliseen: vain
+"Slides"-otsikon paikka kalvolla 2. **QR dekoodattu** (OpenCV, kalvo 2 300 dpi rajattuna,
+neljällä skaalalla): `https://spiik.github.io/session-slides/pdf/i-will-hack-my-agent.pdf`
+— oikein. Huom: koko kalvosta OpenCV ei löytänyt QR:ää, rajattuna kyllä.
