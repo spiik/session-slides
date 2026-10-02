@@ -80,3 +80,17 @@ Metadata edelleen pohjan tekijän (Guro Faller / Nordic Summit 2025).
 ### 2026-09-19 (jatko) — v2 QR-koodilla livenä
 
 Uusi versio siirretty lukitun nimen päälle. QR dekoodattu: kalvolla 4, osoite oikein.
+
+### 2026-10-02 — Experts Live Sweden: I Will Hack My Agent
+
+Kalle muokkasi v18:n käsin ja teki PDF:n (`Session Presentations/2026-10-13 Experts Live
+Sweden - I Will Hack My Agent/…_v18.pdf`, 29 kalvoa). Julkaistu lukitulla nimellä
+**`pdf/i-will-hack-my-agent.pdf`** — sama sääntö: QR-koodillinen versio tallennetaan
+täsmälleen tällä nimellä. Esitys 13.10.2026.
+
+**Sisältötarkistus:** teksti ajettu CGI-asiakasrekisteriä (aliakset + yhteyshenkilöiden
+sukunimet) vastaan, 0 osumaa. Ei tenant-tunnuksia, ei MVP-/NDA-aineistoa; lainaukset on
+nimetty puhujalle (Laiho, Seppälä, Edgson). Metadata: `Title: Experts Live Sweden 2026`,
+tekijä tyhjä. Kalvon 2 "Slides"-kohta odottaa QR-koodia.
+
+**QR-koodin osoite:** `https://spiik.github.io/session-slides/pdf/i-will-hack-my-agent.pdf`
