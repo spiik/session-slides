@@ -102,3 +102,11 @@ Kalle toi QR-version samalla v18-nimellä; sisältö siirretty lukitun nimen
 "Slides"-otsikon paikka kalvolla 2. **QR dekoodattu** (OpenCV, kalvo 2 300 dpi rajattuna,
 neljällä skaalalla): `https://spiik.github.io/session-slides/pdf/i-will-hack-my-agent.pdf`
 — oikein. Huom: koko kalvosta OpenCV ei löytänyt QR:ää, rajattuna kyllä.
+
+**QR-tarkistuksen reitti (seuraavaa kertaa varten):** OpenCV ei ole enää järjestelmän
+pythonissa (`ModuleNotFoundError: cv2`) — aiemmat dekoodaukset tehtiin ympäristössä jota
+ei enää ole. Asennettu scratchpadin venviin `opencv-python-headless` (4.x/5.0). Ensimmäinen
+yritys koko kalvoista 300 dpi:llä **ei löytänyt yhtään QR:ää**, vaikka koodi näkyi
+kalvolla 2 — tiheä koodi pienenä osana isoa kuvaa. Toimiva tapa: rajaa QR-alue
+(kalvo 2: oikea alakulma, x 56–82 %, y 55–99 %), harmaasävy, valkoinen reunus, ja
+dekoodaa. Tyhjä tulos koko kalvosta ei siis tarkoita että QR puuttuu.
